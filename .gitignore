@@ -1,0 +1,23 @@
+# Environment files and secrets
+.env
+.env.*
+secrets/
+credentials/
+local.settings.json
+
+# Certificates and private keys
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Azure and local configuration files
+.azure/
+azureProfile.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code settings
+.vscode/
