@@ -4,6 +4,10 @@
 
 Completed
 
+## Architecture Diagram
+
+[View the Lab 02a Azure Management Groups and RBAC architecture diagram](../diagrams/lab-02a-management-groups-rbac-diagram.md)
+
 ## Objective
 
 Configure Azure management groups and role-based access control to organize subscriptions, delegate permissions through groups, apply least-privilege principles, create a custom role, and review role-related events in the Azure Activity Log.
