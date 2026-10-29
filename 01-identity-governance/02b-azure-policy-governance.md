@@ -4,6 +4,10 @@
 
 Completed
 
+## Architecture Diagram
+
+[View the Lab 02b Azure Policy governance architecture diagram](../diagrams/lab-02b-azure-policy-governance-diagram.md)
+
 ## Objective
 
 Implement Azure governance controls by applying resource tags, enforcing tag requirements with Azure Policy, automatically inheriting tags through policy remediation, and protecting resources with resource locks.
