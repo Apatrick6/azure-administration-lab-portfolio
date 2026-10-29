@@ -1,10 +1,10 @@
 # Identity and Governance Labs
 
-This folder contains original documentation for hands-on Azure identity, role-based access control, governance, and Azure Resource Manager template labs.
+This folder contains original documentation for hands-on Azure identity, governance, role-based access control, and Azure Policy labs.
 
 ## Labs
 
-- [x] Manage Microsoft Entra ID Identities
-- [x] Manage Azure Subscriptions and Role-Based Access Control
-- [x] Manage Governance with Azure Policy
-- Deploy and Manage Azure Resources with ARM Templates
+- [x] [Manage Microsoft Entra ID Identities](01-manage-entra-identities.md)
+- [x] [Manage Azure Subscriptions and Role-Based Access Control](02a-manage-subscriptions-rbac.md)
+- [x] [Manage Governance with Azure Policy](02b-azure-policy-governance.md)
+- [ ] Deploy and Manage Azure Resources with ARM Templates
