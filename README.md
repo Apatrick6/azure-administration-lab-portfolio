@@ -29,9 +29,9 @@ I am using this portfolio to expand my Azure and cloud-administration skills thr
 
 ### Identity and Governance
 
-- [ ] Manage Microsoft Entra ID Identities
-- [ ] Manage Azure Subscriptions and Role-Based Access Control
-- [ ] Implement Governance with Azure Policy
+- [x] [Manage Microsoft Entra ID Identities](01-identity-governance/01-manage-entra-identities.md)
+- [x] [Manage Azure Subscriptions and Role-Based Access Control](01-identity-governance/02a-manage-subscriptions-rbac.md)
+- [x] [Manage Governance with Azure Policy](01-identity-governance/02b-azure-policy-governance.md)
 - [ ] Deploy and Manage Azure Resources with ARM Templates
 
 ### Networking
