@@ -4,6 +4,10 @@
 
 In Progress
 
+## Architecture Diagram
+
+[View the Lab 01 Microsoft Entra ID architecture diagram](../diagrams/lab-01-entra-identities-diagram.md)
+
 ## Objective
 
 Provision and configure test identities in Microsoft Entra ID, invite an external guest user, create a security group, assign group ownership, and manage group membership in a non-production Azure environment.
