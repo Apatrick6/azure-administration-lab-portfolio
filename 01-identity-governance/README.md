@@ -6,5 +6,5 @@ This folder contains original documentation for hands-on Azure identity, role-ba
 
 - [x] Manage Microsoft Entra ID Identities
 - [x] Manage Azure Subscriptions and Role-Based Access Control
-- Implement Governance with Azure Policy
+- [x] Manage Governance with Azure Policy
 - Deploy and Manage Azure Resources with ARM Templates
