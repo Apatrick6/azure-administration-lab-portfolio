@@ -32,7 +32,7 @@ I am using this portfolio to expand my Azure and cloud-administration skills thr
 - [x] [Manage Microsoft Entra ID Identities](01-identity-governance/01-manage-entra-identities.md)
 - [x] [Manage Azure Subscriptions and Role-Based Access Control](01-identity-governance/02a-manage-subscriptions-rbac.md)
 - [x] [Manage Governance with Azure Policy](01-identity-governance/02b-azure-policy-governance.md)
-- [ ] Deploy and Manage Azure Resources with ARM Templates
+- [x] [Deploy Azure Resources with ARM Templates and Bicep](01-identity-governance/03b-arm-templates.md)ates
 
 ### Networking
 
