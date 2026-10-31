@@ -7,4 +7,4 @@ This folder contains original documentation for hands-on Azure identity, governa
 - [x] [Manage Microsoft Entra ID Identities](01-manage-entra-identities.md)
 - [x] [Manage Azure Subscriptions and Role-Based Access Control](02a-manage-subscriptions-rbac.md)
 - [x] [Manage Governance with Azure Policy](02b-azure-policy-governance.md)
-- [ ] Deploy and Manage Azure Resources with ARM Templates
+- [x] [Deploy Azure Resources with ARM Templates and Bicep](01-identity-governance/03b-arm-templates.md)lates
