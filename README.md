@@ -37,7 +37,7 @@ I am using this portfolio to expand my Azure and cloud-administration skills thr
 ### Networking
 
 - [x] [Implement Azure Virtual Networking](02-networking/04-virtual-networking.md)
-- [ ] Implement Intersite Connectivity
+- [x] [Implement Intersite Connectivity](02-networking/05-intersite-connectivity.md)
 - [ ] Implement Network Traffic Management
 
 ### Storage and Compute
